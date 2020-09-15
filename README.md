@@ -1,16 +1,10 @@
 # shield
 
-A new Flutter application.
+This is a mobile application developed for both Android and iOS using Flutter. 
 
-## Getting Started
+The application is a primarily a messaging application that allows the user to send messages as well as store an emergency messesge along with the users location to be sent when the phone is shook. There is also fucntionality for account registration and login and setting a profile picture using the phones camera or gallery.
 
-This project is a starting point for a Flutter application.
+The application has a Firebase backend using Cloud Firestore for storing and retrieving user data, Firebase Storage for images and makes uses of Firebase Auth to register and login in users.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="347" alt="Screenshot 2020-09-15 at 10 24 25" src="https://user-images.githubusercontent.com/71260255/93192599-bfbb2480-f73d-11ea-8528-0230620aaa3d.png">
