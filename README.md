@@ -1,4 +1,4 @@
-# shield
+# Shield Messaging Application.
 
 This is a mobile application developed for both Android and iOS using Flutter. 
 
